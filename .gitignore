@@ -1,0 +1,17 @@
+# Raw Data & Local Scripts
+games.csv
+clean_data.py
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments & Secrets
+venv/
+env/
+.env
+
+# Vercel Cache
+.vercel/
